@@ -3,6 +3,11 @@ module.exports = {
   content: [
               "../*.{html,js,php}",
            ],
+  purge: {
+    options: {
+      safelist: ['post-container'], // Add the classes you want to exclude from purging
+    },
+  },
   theme: {
     screens: {
       'xs': '320px',

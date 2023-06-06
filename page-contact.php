@@ -1,4 +1,7 @@
 <?php 
+    /*
+        Template name: Contact
+    */
     get_header(); 
 ?>
 <main class="w-full grid 2xl:grid-cols-12">

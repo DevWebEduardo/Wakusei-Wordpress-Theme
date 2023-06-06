@@ -34,4 +34,20 @@
     .index-bg-color{
         background-color: rgba(0, 0, 0, 0.8)
     }
+    .post-container img {
+        box-sizing: border-box;
+        padding: 10px;
+        margin: 0 auto;
+        max-height: 450px;
+        height: 80%;
+      }
+      
+      @media (max-width: 600px) {
+        .post-container img {
+            padding: 0px;
+            margin-top: 6px;
+            margin-bottom: 6px;
+            width: 100%;
+        }
+      }      
 }
