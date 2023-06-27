@@ -32,6 +32,6 @@ We wish you success in showcasing the wonders of Japan and providing exceptional
 <p>We welcome any contributions or suggestions to improve Wakusei. If you have ideas for new features, bug fixes, or general enhancements, feel free to contribute by submitting a pull request. Together, we can make Wakusei even better!</p>
 
 ## Contact
-<p>If you have any questions or need assistance, you can reach us at sakurasou.com.br. We are always happy to help!</p>
+<p>If you have any questions or need assistance, you can reach us at solanin.icu We are always happy to help!</p>
 
 <p>Thank you for choosing Wakusei for your travel agency website. We hope you have a great experience using this theme!</p>
