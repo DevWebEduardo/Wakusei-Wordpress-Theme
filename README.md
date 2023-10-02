@@ -1,4 +1,4 @@
-# Wakusei - WordPress Theme for Travel Agencies
+# Wakusei - WordPress Theme for Travel Agencies - Deprecated
 
 <p>Wakusei is a simple WordPress theme designed specifically for travel agencies(blog). This theme features stunning images of Japan, providing a visually captivating experience for your website visitors. However, you have the freedom to modify the theme and customize it according to your preferences.</p>
 
